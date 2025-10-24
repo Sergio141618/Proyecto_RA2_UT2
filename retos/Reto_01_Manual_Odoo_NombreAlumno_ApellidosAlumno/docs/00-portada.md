@@ -1,3 +1,4 @@
+![Portada de Odoo ](../assets/img/00-portada/Odoo-Portada.png)
 # Manual de Odoo — Sergio Sabater Garcia
 
 **Reto:** Manual_Odoo_Sergio_Sabater_Garcia
