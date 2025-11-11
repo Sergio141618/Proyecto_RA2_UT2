@@ -10,4 +10,4 @@
 8. [Documentos, Firma e Información](./09-documentos_firma_info.md)
 9. [Ediciones y costes](./10-ediciones_y_costes.md)
 10. [Tips & Checklist](./11-tips_y_checklist.md)
-11. [Referencias](./99-referencias.md)
+11. [Referencias](12-referencias.md)
