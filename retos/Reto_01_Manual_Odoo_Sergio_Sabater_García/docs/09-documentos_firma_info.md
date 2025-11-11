@@ -36,7 +36,7 @@ Odoo permite trabajar directamente con sus propias hojas de cálculo integradas,
 
 ![Subir hoja de calculo](../assets/img/09-documentos_firma_info/Subir_hoja.png)
 
-![Abrir hoja de calculo de Odoo](../assets/img/09-documentos_firma_info/Abrir_hoja_Odoo.png)
+![Abrir hoja de calculo de Odoo](../assets/img/09-documentos_firma_info/Abrir_hoja_odoo.png)
 
 ![Hoja de calculo de Odoo](../assets/img/09-documentos_firma_info/Hoja_Odoo.png)
 
