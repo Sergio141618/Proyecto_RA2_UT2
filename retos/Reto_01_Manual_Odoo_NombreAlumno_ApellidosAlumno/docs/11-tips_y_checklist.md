@@ -1,16 +1,18 @@
 # 11 — Tips & Checklist
 
 ## Tips
+
 - Activa **2FA** y define **roles** desde el día 1.
 - Etiquetas y seguidores (followers) para notificaciones.
 - Copias de seguridad antes de **desinstalar** apps.
 
 ## Checklist
-- [ ] BD de prueba activada
-- [ ] Apps iniciales instaladas
-- [ ] 2FA y notificaciones configuradas
-- [ ] Gmail/Calendar integrados (si aplica)
-- [ ] Contactos importados y etiquetados
-- [ ] Proyectos/tareas creados
-- [ ] Documentos y firma probados
-- [ ] Wiki inicial en Información
+
+- [X] BD de prueba activada
+- [X] Apps iniciales instaladas
+- [X] 2FA y notificaciones configuradas
+- [X] Gmail/Calendar integrados (si aplica)
+- [X] Contactos importados y etiquetados
+- [X] Proyectos/tareas creados
+- [X] Documentos y firma probados
+- [X] Wiki inicial en Información
