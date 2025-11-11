@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "d7b5a6a1dbeec302",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee5a3cb0e748efa1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09e6ce6b3bf9caab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos/Reto_01_Manual_Odoo_Sergio_Sabater_García/docs/12-referencias.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12-referencias"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "285fc12e544adbbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ab27a8d50c4a1fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9146ebaba83cb6d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e9dd31a2af1facaa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fbeef35bc5d0683d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ab8fa3dac965c05b",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc216fbc2038117f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6209388979575fef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "retos/Reto_01_Manual_Odoo_Sergio_Sabater_García/docs/12-referencias.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 12-referencias"
+            }
+          },
+          {
+            "id": "820334258b7be00e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "retos/Reto_01_Manual_Odoo_Sergio_Sabater_García/docs/12-referencias.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 12-referencias"
+            }
+          },
+          {
+            "id": "b522c74ce91943fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "80b407f66b7f22b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "retos/Reto_01_Manual_Odoo_Sergio_Sabater_García/docs/12-referencias.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 12-referencias"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "09e6ce6b3bf9caab",
+  "lastOpenFiles": [
+    "retos/Reto_01_Manual_Odoo_Sergio_Sabater_García/docs/11-tips_y_checklist.md",
+    "retos/Reto_01_Manual_Odoo_Sergio_Sabater_García/docs/10-ediciones_y_costes.md",
+    "retos/Reto_01_Manual_Odoo_Sergio_Sabater_García/docs/09-documentos_firma_info.md",
+    "retos/Reto_01_Manual_Odoo_Sergio_Sabater_García/docs/08-proyectos.md",
+    "retos/Reto_01_Manual_Odoo_Sergio_Sabater_García/docs/07-calendario_y_citas.md",
+    "retos/Reto_01_Manual_Odoo_Sergio_Sabater_García/docs/06-contactos.md",
+    "retos/Reto_01_Manual_Odoo_Sergio_Sabater_García/docs/05-integracion_gmail.md",
+    "retos/Reto_01_Manual_Odoo_Sergio_Sabater_García/docs/04-ajustes_generales.md",
+    "retos/Reto_01_Manual_Odoo_Sergio_Sabater_García/docs/03-instalacion.md",
+    "retos/Reto_01_Manual_Odoo_Sergio_Sabater_García/docs/01-indice.md",
+    "retos/Reto_01_Manual_Odoo_Sergio_Sabater_García/docs/02-introduccion.md",
+    "retos/Reto_01_Manual_Odoo_Sergio_Sabater_García/docs/00-portada.md",
+    "retos/Reto_01_Manual_Odoo_Sergio_Sabater_García/docs/12-referencias.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas"
+  ]
+}
