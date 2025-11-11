@@ -29,7 +29,7 @@ Estando en el panel principal de Odoo, en la zona superior derecha, observarás 
 
 Estando en el panel principal de Odoo , dirígete a la esquina superior derecha, donde aparece una letra "A". Al hacer clic sobre ella, se desplegará un menú con varias opciones. Selecciona “My Preferences” para acceder a la configuración personal del perfil.
 
-![Darle a My Preferences](../assets/img/04-ajustes_generales/Mis_preferencias.png)
+![Darle a My Preferences](../assets/img/04-ajustes_generales/Mis_Preferencias.png)
 
 Desde esta sección podrás poner el modo oscuro y no olvides darle a "Update Preferences".
 
@@ -39,7 +39,7 @@ Desde esta sección podrás poner el modo oscuro y no olvides darle a "Update Pr
 
 Dentro del apartado “My Preferences”, es recomendable revisar y actualizar los datos personales del usuario para garantizar que la información del sistema esté correctamente asociada a cada cuenta, incluyendo campos como nombre, correo electrónico, idioma y zona horaria. Pudiendo añadir teléfono de trabajo, móvil de trabajo, dirrección privada, teléfono privado, correo electrónico privado y contacto de emergencia en la pestaña "Private".
 
-![Darle a My Preferences](../assets/img/04-ajustes_generales/Mis_preferencias.png)
+![Darle a My Preferences](../assets/img/04-ajustes_generales/Mis_Preferencias.png)
 
 ![Los datos en la sección de preferencias](../assets/img/04-ajustes_generales/Preferencias_datos.png)
 
@@ -49,7 +49,7 @@ Dentro del apartado “My Preferences”, es recomendable revisar y actualizar l
 
 Para activar la autenticación en dos pasos (2FA) en Odoo, primero accede al panel principal y dirígete a la esquina superior derecha, donde aparece la letra “A”. Haz clic sobre ella y selecciona la opción “My Preferences”.
 
-![Darle a My Preferences](../assets/img/04-ajustes_generales/Mis_preferencias.png)
+![Darle a My Preferences](../assets/img/04-ajustes_generales/Mis_Preferencias.png)
 
 Dentro de esta sección, selecciona el apartado “Seguridad”. Allí verás la opción “Autenticación de dos factores” (2FA), que puedes activar para reforzar la seguridad de tu cuenta.
 

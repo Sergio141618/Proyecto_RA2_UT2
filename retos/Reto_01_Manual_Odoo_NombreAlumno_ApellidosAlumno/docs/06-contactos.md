@@ -64,4 +64,4 @@ La importación de contactos por CSV en Odoo permite cargar registros masivos de
 
 En algunos casos, Odoo no identifica automáticamente todos los campos del archivo CSV, por lo que será necesario asignarlos manualmente. Una vez que todos los campos estén correctamente configurados, basta con hacer clic en “Importar” (arriba a la izquierda) para completar el proceso y cargar los contactos en el sistema.
 
-![CSV importado](../assets/img/06-contactos/CSV_Importado.png)
+![CSV importado](../assets/img/06-contactos/CSV_importado.png)

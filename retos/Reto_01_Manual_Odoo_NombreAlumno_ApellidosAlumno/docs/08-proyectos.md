@@ -127,10 +127,3 @@ Para consultar la calificación del cliente, hay que acceder al módulo Proyecto
 
 ![Calificaciones](../assets/img/08-proyectos/Calificaciones.png)
 
-
-
-
-
-
-
-![Proyectos](../assets/img/08-proyectos/paso01_proyectos.png "Proyectos")
