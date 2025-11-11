@@ -1,10 +1,8 @@
 # 09 — Documentos, Firma e Información (Knowledge)
 
-
 - **Documentos**: repositorio, edición hojas, dividir PDFs, etiquetas/flujo.
 - **Firma electrónica**: campos (firma/nombre/fecha), envío y registro.
 - **Información (Knowledge)**: wiki tipo Notion, permisos y publicación.
-
 
 ## Documentos
 
@@ -55,7 +53,7 @@ El módulo incluye una herramienta práctica para dividir archivos PDF directame
 
   En la parte superior derecha, accedemos al menú "Acciones" donde aparece la opción "Dividir PDF".
 
-  ![Le damos a "DividirPDF"](../assets/img/09-documentos_firma_info/Dividir_pdf.png)
+  ![DividirPDF](../assets/img/09-documentos_firma_info/Dividir_pdf.png)
 
   Tras seleccionar las páginas que queremos conservar o dividir, Odoo crea nuevos documentos independientes directamente desde el PDF original.
 
@@ -99,12 +97,5 @@ El módulo de "Documentos" nos ayuda a tener un control de los documentos firmad
 
 - campos (firma/nombre/fecha), envío y registro.
 - **Información (Knowledge)**: wiki tipo Notion, permisos y publicación.
-
-
-
-
-
-
-
 
 ![Documentos](../assets/img/09-documentos_firma_info/paso01_documentos.png "Documentos")
