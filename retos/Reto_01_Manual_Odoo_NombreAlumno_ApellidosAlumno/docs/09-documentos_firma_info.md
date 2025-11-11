@@ -95,7 +95,34 @@ El módulo de "Documentos" nos ayuda a tener un control de los documentos firmad
 
 ![Contrato firmado](../assets/img/09-documentos_firma_info/Contrato_firmado.png)
 
-- campos (firma/nombre/fecha), envío y registro.
-- **Información (Knowledge)**: wiki tipo Notion, permisos y publicación.
+## Información (Knowledge)
 
-![Documentos](../assets/img/09-documentos_firma_info/paso01_documentos.png "Documentos")
+El módulo Información (también conocido como Knowledge) es una aplicación de productividad que permite a los usuarios crear, organizar y compartir contenido relevante dentro de la organización. Su propósito principal es construir una base de conocimiento interna, accesible y estructurada.
+
+![Información](../assets/img/09-documentos_firma_info/Informacion.png)
+
+### Wiki tipo Notion
+
+Una wiki tipo Notion dentro de Odoo se puede construir usando el módulo Información (Knowledge), que está diseñado precisamente para crear una base de conocimiento colaborativa, muy similar a lo que ofrece Notion.
+
+![Información Notion](../assets/img/09-documentos_firma_info/Informacion_notion.png)
+
+
+* Sirve para documentar todo lo que ocurre en la empresa, desde procesos hasta ideas, políticas, manuales, y más.
+* Puedes crear artículos con texto enriquecido, imágenes, enlaces, listas, y referencias cruzadas a otros módulos de Odoo.
+
+* Es ideal para centralizar el conocimiento de la empresa y evitar que se pierda cuando alguien se va.
+* Puedes organizar los artículos por categorías, asignar etiquetas, y controlar quién puede ver o editar cada contenido.
+* Es útil para formar nuevos empleados, compartir procedimientos internos, y mejorar la colaboración entre equipos.
+
+![Espacio trabajo](../assets/img/09-documentos_firma_info/Espacio_trabajo.png)
+
+![Le damos a los 3 puntos](../assets/img/09-documentos_firma_info/Espacio_trabajo2.png)
+
+![Portada e indice](../assets/img/09-documentos_firma_info/Portada_indice.png)
+
+### Permisos y publicación
+
+Para compartir, pulsa el boton "Compartir", habilita el "Articulo compartido a la web" y podrás ver que también puedes dar acceso general y añadir personas con accesos espeficicos.
+
+![Permisos y publicación](../assets/img/09-documentos_firma_info/Permisos_y_publicacion.png)
