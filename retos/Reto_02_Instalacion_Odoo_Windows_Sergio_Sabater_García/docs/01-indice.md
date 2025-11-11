@@ -9,4 +9,4 @@
 8. [Verificación de acceso](./09-verificacion.md)
 9. [Problemas comunes (FAQ)](./10-troubleshooting.md)
 10. [Checklist final](./11-checklist.md)
-11. [Bibliografía y fuentes](12-bibliografia.md)
+11. [Bibliografía y fuentes](99-bibliografia.md)
