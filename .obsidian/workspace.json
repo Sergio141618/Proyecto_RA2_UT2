@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos/Reto_02_Instalacion_Odoo_Windows_Sergio_Sabater_García/docs/01-indice.md",
+                "file": "retos/Reto_02_Instalacion_Odoo_Windows_Sergio_Sabater_García/docs/99-bibliografia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-indice"
+              "title": "99-bibliografia"
             }
           },
           {
@@ -312,6 +312,8 @@
   },
   "active": "02455902d5166f23",
   "lastOpenFiles": [
+    "retos/Reto_01_Manual_Odoo_Sergio_Sabater_García/docs/99-referencias.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Sergio_Sabater_García/docs/01-indice.md",
     "retos/Reto_02_Instalacion_Odoo_Windows_Sergio_Sabater_García/docs/00-portada.md",
     "retos/Reto_02_Instalacion_Odoo_Windows_Sergio_Sabater_García/docs/99-bibliografia.md",
     "retos/Reto_02_Instalacion_Odoo_Windows_Sergio_Sabater_García/docs/11-checklist.md",
@@ -324,7 +326,6 @@
     "retos/Reto_02_Instalacion_Odoo_Windows_Sergio_Sabater_García/docs/04-postgresql_windows.md",
     "retos/Reto_02_Instalacion_Odoo_Windows_Sergio_Sabater_García/docs/03-descarga_instalador.md",
     "retos/Reto_02_Instalacion_Odoo_Windows_Sergio_Sabater_García/docs/02-requisitos_previos.md",
-    "retos/Reto_02_Instalacion_Odoo_Windows_Sergio_Sabater_García/docs/01-indice.md",
     "retos/Reto_01_Manual_Odoo_Sergio_Sabater_García/docs/12-referencias.md",
     "retos/Reto_01_Manual_Odoo_Sergio_Sabater_García/docs/11-tips_y_checklist.md",
     "retos/Reto_01_Manual_Odoo_Sergio_Sabater_García/docs/10-ediciones_y_costes.md",
