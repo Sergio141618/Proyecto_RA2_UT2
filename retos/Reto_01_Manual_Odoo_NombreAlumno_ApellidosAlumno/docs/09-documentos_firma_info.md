@@ -53,7 +53,7 @@ El módulo incluye una herramienta práctica para dividir archivos PDF directame
 
   En la parte superior derecha, accedemos al menú "Acciones" donde aparece la opción "Dividir PDF".
 
-  ![DividirPDF](../assets/img/09-documentos_firma_info/Dividir_pdf.png)
+  ![DividirPDF](../assets/img/09-documentos_firma_info/Dividir_PDF.png)
 
   Tras seleccionar las páginas que queremos conservar o dividir, Odoo crea nuevos documentos independientes directamente desde el PDF original.
 
