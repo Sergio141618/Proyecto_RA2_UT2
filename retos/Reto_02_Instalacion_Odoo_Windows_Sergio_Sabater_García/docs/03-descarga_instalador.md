@@ -10,7 +10,8 @@ Vamos a la [**web oficial de Odoo**](https://www.odoo.com/es_ES/page/download) y
 
 ![Version de Odoo](../assets/img/03-descarga_instalador/Odoo_19.png)
 
-2. Descarga la **versión estable** que vayas a usar en clase (anota la **versión exacta**).
-   - ![Descarga](../assets/img/03-descarga_instalador/paso02_descargar-installer.png "Descargar instalador")
+2. Descarga la **versión estable** que vayas a usar en clase (anota la **versión exacta**)
+
+   ![Descarga](../assets/img/03-descarga_instalador/version_estable.png "Descargar instalador")
 
 > Resultado esperado: fichero `Odoo-<version>-setup.exe` en tu equipo.
